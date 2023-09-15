@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Playfair Display', serif;
+    src: url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+
+}
+#p1{
+    font-family: 'Handjet';
+    font-size: 32px;
+}
+#p2{
+    font-family: 'Libre Baskerville';
+    font-weight: 700;
+}
+#p3{
+    font-family: 'Tilt Prism';
+    font-style: normal ;
+    font-size: 30px;
+}
